@@ -1,0 +1,5 @@
+
+Test the function to make sure of the following:
+
+1. If argument of true is passed, return false.
+2. If argument of false is passed, return true. 

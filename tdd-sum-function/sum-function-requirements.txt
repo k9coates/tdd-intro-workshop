@@ -1,0 +1,7 @@
+
+Test the function to make sure of the following:
+
+1.  If no arguments are passed into the function, it should return the value 0.
+2.  If only one argument is passed into the function, it should return the argument.
+3.  If more than argument is passed into the function, it should return the sum of the arguments.
+4.  If an argument that is not a number type is passed into the function, it should throw an error.

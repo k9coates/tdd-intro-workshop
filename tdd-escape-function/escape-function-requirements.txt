@@ -1,0 +1,8 @@
+
+Test the function to make sure of the following:
+
+1. An input that is an ampersand becomes "&amp;"
+2. An input that contains ampersand should become the ampersand with "&amp;"
+3. An input that contains quotes should become all quotes with "&quot;" for double quotes and "&#39;" for single quotes.
+4. An input that contains less than or greater than signs should replace them with "&lt;" and "&gt;"
+5. An input that contains a frontslash becomes "&frasl;"

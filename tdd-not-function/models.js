@@ -3,14 +3,15 @@
 
     // Test Setup
     mocha.setup("bdd");
-    const { expect } = chai;
+    const { assert } = chai;
 
     //Test Suite
-    describe("A function", function() {
-        it("should fulfill this requirement", function() {
-            const not = () => true; 
-            expect(not(true)).to.equal(false);
-            expect(not(false)).to.equal(true);
+    describe("Not function", function() {
+        it("should make a true value false", function() {
+            assert.equal(not(true), false);
+        });
+        xit("should make a false value true", function() {
+            assert.equal(not(false), true);
         })
     });
 

@@ -3,7 +3,7 @@
 
     // Test Setup
     mocha.setup("bdd");
-    const { expect } = chai;
+    const { assert } = chai;
 
     //Test Suite
     describe("A function", function() {

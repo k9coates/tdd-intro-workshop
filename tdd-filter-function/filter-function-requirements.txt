@@ -1,0 +1,6 @@
+
+Test the function to make sure of the following:
+
+1. It takes an array. 
+2. Each number above thirty-two becomes "liquid."
+3. Each number below thirty-two becauses "frozen."

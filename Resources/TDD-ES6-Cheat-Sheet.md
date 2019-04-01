@@ -15,14 +15,7 @@
 * [Mocha.js Test Framework](https://mochajs.org/)
 * [Chai.js Assertion Library, assert style](https://www.chaijs.com/api/assert/)
 
-
-
-
-
 ## Javascript and ES6 Tips
-
-
-
-
-
-
+* [Array.prototype.map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+* [String.prototype.replace on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace#Specifying_a_function_as_a_parameter)
+* [JavaScript Cheat Sheet](https://htmlcheatsheet.com/js/)
